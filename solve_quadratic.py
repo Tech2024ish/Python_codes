@@ -1,6 +1,6 @@
 import math
 
-def numbers(a,b,c):
+def quadratic (a,b,c):
     if a==0:
         print("This is not a quadratic.\n")
         return
